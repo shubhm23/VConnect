@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649792066978",
+    "project_id": "vconnect-c5f3d",
+    "storage_bucket": "vconnect-c5f3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649792066978:android:6be88afcf881b65e5a4efb",
+        "android_client_info": {
+          "package_name": "com.example.vconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649792066978-224c1plaqm3tr280ppj1pf2kcfi3jejb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAx00pOvt1pLkGCI_SSSriS0BrQSijCLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649792066978-224c1plaqm3tr280ppj1pf2kcfi3jejb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

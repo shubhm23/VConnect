@@ -21,7 +21,7 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/button"
+                android:id="@+id/btnWifi"
                 android:layout_width="100dp"
                 android:layout_height="match_parent"
                 android:layout_margin="15dp"
@@ -29,7 +29,7 @@
                 android:text="Wifi and Bluetooth Signal" />
 
             <Button
-                android:id="@+id/button2"
+                android:id="@+id/btnRemoteSetting"
                 android:layout_width="100dp"
                 android:layout_height="match_parent"
                 android:layout_margin="15dp"
@@ -43,7 +43,7 @@
             android:orientation="horizontal">
 
             <Button
-                android:id="@+id/button3"
+                android:id="@+id/btnScreenMirror"
                 android:layout_width="100dp"
                 android:layout_height="match_parent"
                 android:layout_margin="15dp"
@@ -51,7 +51,7 @@
                 android:text="Screen Mirroring" />
 
             <Button
-                android:id="@+id/button4"
+                android:id="@+id/btnStorage"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_margin="15dp"
